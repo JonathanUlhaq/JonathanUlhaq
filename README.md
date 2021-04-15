@@ -1,4 +1,4 @@
-### Hi tgere, I'm Jovian - aka [respectorest1]👋
+### Hi there, I'm Jovian, i'm college student at **Sebelas Maret University** majoring at **Informatic Engineering**.Thank you for visiting my repository👋
 
 
 - 👋 Hi, I’m @respectorest1/@Jovian
