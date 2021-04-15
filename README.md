@@ -1,11 +1,6 @@
 ###  Hi there👋
 
 I'm Jovian, i'm college student at  **Sebelas Maret University** majoring at **Informatic Engineering** Thank you for visiting my repository
-
-- 👋 Hi, I’m @respectorest1/@Jovian
-- 👀 I’m interested in Web Developer & Microcontroler
-- 🌱 I’m currently learning PHP & Arduino
-
 ## 📝 About Me 👓
 - 🏫 I'm currently studying on **Sebelas Maret University**
 - 🌱 I'm currently learning **PHP,HTML & Arduino**
