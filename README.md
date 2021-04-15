@@ -13,6 +13,14 @@ I'm Jovian, i'm college student at  **Sebelas Maret University** majoring at **I
 <a href="https://www.instagram.com/jo.naathaan/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />    
   </a>
+  
+  ## 🚀 🪐 Skill & Language 💻
+  
+  <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white " />
+  <img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white " />
+
+
 
 
 
