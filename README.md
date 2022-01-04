@@ -23,7 +23,7 @@ I'm Jovian, i'm college student at  **Sebelas Maret University** majoring at **I
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanUlhaq)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
