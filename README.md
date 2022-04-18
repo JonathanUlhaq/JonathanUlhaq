@@ -4,7 +4,7 @@ I'm Jovian, i'm college student at  **Sebelas Maret University** majoring at **I
 
 ## 📝 About Me 👓
 - 🏫 I'm currently studying on **Sebelas Maret University**
-- 🌱 I'm currently learning **PHP,HTML & Arduino**
+- 🌱 I'm currently learning **PHP & Java**
 - 🌟 My interests are **Web developer & Microcontroler**
 - 📫 Please text me via e-mail vianulhag@student.uns.ac.id
 - 📝 Visit my personal website https://jonathanulhaq.github.io/
