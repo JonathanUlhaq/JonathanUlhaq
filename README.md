@@ -23,7 +23,7 @@ I'm Jovian, i'm college student at  **Sebelas Maret University** majoring at **I
   <img src = "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> 
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />  <img src ="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jovian)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JonathanUlhaq&repo=github-readme-stats" />
 
 <!---
 respectorest1/respectorest1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
